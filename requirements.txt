@@ -3,4 +3,4 @@ ipywidgets
 nbinteract
 matplotlib
 networkx
-IPython.display
+IPython
