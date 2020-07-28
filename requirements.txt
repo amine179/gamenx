@@ -4,3 +4,4 @@ nbinteract
 matplotlib
 networkx
 IPython
+scipy
